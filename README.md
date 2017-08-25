@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Cam here, I like golf, cycling, coding, reading, movies, lots of other shit too.
